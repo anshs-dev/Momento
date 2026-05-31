@@ -1,9 +1,10 @@
 <div align="center">
-# ✨ ChatterBox ✨
 
-**Developed by Anshika**
+# ✨ Momento ✨
 
-**A refined social media platform inspired by community-driven connection, built with React, Appwrite, and Tailwind CSS.**
+**Developed by Ansh Soni**
+
+**A modern social media platform built for seamless content sharing, user interaction, and community engagement using React, Appwrite, and Tailwind CSS.**
 
 </div>
 
@@ -17,108 +18,110 @@
 
 ---
 
-## 🌸 General Information
+## 📖 About
 
-- Built to explore full-stack social media application development.
-- Focused on creating a smooth, responsive, and visually appealing user experience.
-- Designed with scalable structure and clean UI principles in mind.
-- Used modern data fetching and state management patterns for better performance.
-- Explored backend-as-a-service development for faster and more efficient application building.
+Connectify is a full-stack social media application designed to provide a smooth and engaging user experience. The platform enables users to share content, interact with posts, discover creators, and manage their profiles through a clean and responsive interface.
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- React.js
-- Appwrite
-- React Query (TanStack Query)
-- TypeScript
-- Tailwind CSS
-- shadcn/ui
+* React.js
+* TypeScript
+* Appwrite
+* React Query (TanStack Query)
+* Tailwind CSS
+* shadcn/ui
 
 ---
 
 ## ✨ Features
 
-- Secure authentication system for user accounts
-- Explore feed for discovering posts and creators
-- Like and save functionality for posts
-- Detailed post view with related content
-- User profile management and editing
-- Browse and explore other users
-- Create and edit posts with media support
-- Responsive UI with smooth navigation
-- Optimized data fetching with caching
+* Secure user authentication
+* Create, edit, and manage posts
+* Like and save posts
+* Explore feed for content discovery
+* User profile management
+* Browse and search users
+* Responsive design across devices
+* Optimized data fetching and caching
+* Clean and modern UI
 
 ---
 
-## ⚙️ Setup
+## ⚙️ Installation
 
 ### Prerequisites
-Make sure you have:
-- Node.js
-- npm
 
-### Installation
+* Node.js
+* npm
 
-1. Clone the repository
-2. Navigate to the project folder
-3. Install dependencies
+### Setup
+
+Clone the repository:
+
+```bash
+git clone <repository-url>
+```
+
+Install dependencies:
 
 ```bash
 npm install
 ```
 
-4. Create a `.env` file and configure the required environment variables:
-   - APPWRITE_URL
-   - PROJECT_ID
-   - DATABASE_ID
-   - STORAGE_ID
-   - USER_COLLECTION_ID
-   - POST_COLLECTION_ID
-   - SAVES_COLLECTION_ID
+Create a `.env` file and add:
 
-5. Start the development server
-
-```bash
-npm start
+```env
+APPWRITE_URL=
+PROJECT_ID=
+DATABASE_ID=
+STORAGE_ID=
+USER_COLLECTION_ID=
+POST_COLLECTION_ID=
+SAVES_COLLECTION_ID=
 ```
 
-6. Open your browser at
+Run the project:
 
 ```bash
-http://localhost:3000
+npm run dev
+```
+
+Open:
+
+```bash
+http://localhost:5173
 ```
 
 ---
 
-## 📚 Learnings
+## 📚 Key Learnings
 
-- Building a scalable social media UI
-- Managing server state using React Query
-- Integrating backend services with Appwrite
-- Implementing authentication and user flows
-- Designing responsive layouts with Tailwind CSS
-- Structuring a large frontend application cleanly
-
----
-
-## 📌 Project Status
-
-This project includes the core social media functionality.
-
-Planned future improvements may include:
-- Real-time messaging
-- Notifications system
-- Advanced search
-- AI-based recommendations
-- Better moderation and discovery features
+* Building scalable React applications
+* Backend integration with Appwrite
+* Authentication and user management
+* State management using React Query
+* Responsive UI development with Tailwind CSS
+* Component-based architecture and clean code practices
 
 ---
 
-## 👤 Author
+## 🚀 Future Enhancements
 
-**Anshika**
+* Real-time messaging
+* Push notifications
+* AI-powered content recommendations
+* Advanced search and filtering
+* User follow system
+* Real-time activity updates
 
-GitHub: https://github.com/anshika4-dev  
-LinkedIn: https://www.linkedin.com/in/anshika4-dev
+---
+
+## 👨‍💻 Author
+
+**Ansh Soni**
+
+GitHub: https://github.com/anshs-dev
+
+LinkedIn: https://www.linkedin.com/in/anshs-dev

@@ -20,7 +20,7 @@
 
 ## 📖 About
 
-Connectify is a full-stack social media application designed to provide a smooth and engaging user experience. The platform enables users to share content, interact with posts, discover creators, and manage their profiles through a clean and responsive interface.
+Momento is a modern social media platform that enables users to capture, share, and discover memorable moments. Built with React, Appwrite, and Tailwind CSS, it delivers a smooth, responsive, and engaging social networking experience.
 
 ---
 
@@ -38,14 +38,14 @@ Connectify is a full-stack social media application designed to provide a smooth
 ## ✨ Features
 
 * Secure user authentication
-* Create, edit, and manage posts
+* Create and share posts
 * Like and save posts
 * Explore feed for content discovery
 * User profile management
-* Browse and search users
-* Responsive design across devices
+* Browse and discover creators
+* Responsive design across all devices
 * Optimized data fetching and caching
-* Clean and modern UI
+* Clean and intuitive user interface
 
 ---
 
@@ -99,21 +99,21 @@ http://localhost:5173
 ## 📚 Key Learnings
 
 * Building scalable React applications
-* Backend integration with Appwrite
-* Authentication and user management
-* State management using React Query
-* Responsive UI development with Tailwind CSS
-* Component-based architecture and clean code practices
+* Integrating Appwrite services
+* Implementing authentication and user management
+* Managing server state with React Query
+* Creating responsive interfaces with Tailwind CSS
+* Following component-based architecture and clean code practices
 
 ---
 
 ## 🚀 Future Enhancements
 
 * Real-time messaging
-* Push notifications
-* AI-powered content recommendations
+* Notifications system
+* AI-powered recommendations
 * Advanced search and filtering
-* User follow system
+* Follow/unfollow functionality
 * Real-time activity updates
 
 ---
